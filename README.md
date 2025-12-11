@@ -85,7 +85,7 @@ This is a static website exported from Framer and can be deployed to any static 
 
 ## 📄 License
 
-All photography work © Abin M Joseph. All rights reserved.
+All photography work © Abin S Manoj. All rights reserved.
 
 ## 📞 Contact
 
