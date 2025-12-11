@@ -3427,7 +3427,26 @@
       }
 
       .ssr-variant {
-        display: contents;
+        display: none;
+      }
+
+      /* Show ssr-variant as contents within media queries */
+      @media (min-width: 1200px) {
+        .ssr-variant:not(.hidden-72rtr7) {
+          display: contents;
+        }
+      }
+
+      @media (min-width: 810px) and (max-width: 1199.98px) {
+        .ssr-variant:not(.hidden-1jp9pa2) {
+          display: contents;
+        }
+      }
+
+      @media (max-width: 809.98px) {
+        .ssr-variant:not(.hidden-1qvnpt1) {
+          display: contents;
+        }
       }
 
       @supports (aspect-ratio: 1) {
