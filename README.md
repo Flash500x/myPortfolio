@@ -1,4 +1,4 @@
-# Abin Photography Portfolio
+# Abin's Photography Portfolio
 
 A professional photography portfolio website showcasing portrait, event, lifestyle, and creative photography work in Kerala. Built with modern web technologies for a stunning visual experience.
 
